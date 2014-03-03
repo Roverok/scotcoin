@@ -1,2 +1,2 @@
-Scotcoin!
+Android Scotcoin Wallet Development branch!
 
