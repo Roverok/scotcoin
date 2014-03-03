@@ -1,3 +1,2 @@
-
-Scotcoin
+Scotcoin!
 
